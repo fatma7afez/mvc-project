@@ -1,0 +1,21 @@
+{
+    "name": "user/mvcroute",
+    "description": "project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "User\\Mvcroute\\": "src/"
+        },
+        "files": [
+            "src//core//helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "fatma Hafez",
+            "email": "fatmahmed.7afez@gmail.com"
+        }
+    ],
+    "require": {}
+}
